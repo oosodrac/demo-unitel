@@ -29,4 +29,6 @@
  - API Gateway
  - Database por serviço
  - Decomposição pelo demonio de negocio
+ - Service registry
+ - Service discovery
 
